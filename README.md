@@ -127,11 +127,11 @@ curl -O -J http://localhost:3000/api/download/a225eb00-0907-4273-92ca-5faadeefae
 
 ### Input CSV
 
-![Input CSV](assets/images/input_csv.png)
+![Input CSV](app/assets/images/input_csv.png)
 
 ### Processed CSV
 
-![Processed CSV](assets/images/processed_csv.png)
+![Processed CSV](app/assets/images/processed_csv.png)
 
 > Notice the additional `flag` column in the processed CSV indicating whether each row contains a valid email.
 
