@@ -33,7 +33,7 @@ This version uses an **in-memory JobStore** for tracking file uploads and stores
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/email-flagger.git
+git clone https://github.com/bhaveshrordev/email-flagger.git
 cd email-flagger
 ```
 
